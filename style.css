@@ -268,8 +268,8 @@ a {
 }
 footer{
     position:absolute;
-    bottom:0px;
-    right:0px;
+    bottom:-0.3rem;
+    right:0;
     text-align: center;
     color:white;
     width:100%;
