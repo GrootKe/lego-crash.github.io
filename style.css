@@ -248,7 +248,7 @@ button:active::before {
 	position: fixed;
 	width: 100%;
 	left: 0;
-	bottom: 20px;
+	bottom: 3rem;
 }
 
 a {
